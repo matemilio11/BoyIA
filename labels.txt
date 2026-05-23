@@ -1,0 +1,5 @@
+0 Predicador
+1 Peck Deck
+2 Jalon al pecho
+3 Polea
+4 Smith
